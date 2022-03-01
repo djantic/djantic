@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @djantic
-- 👀 I’m interested in ...yes
-- 🌱 I’m currently learning ...yes
-- 💞️ I’m looking to collaborate on ...yes
-- 📫 How to reach me ...no
+- 👀 I’m interested in ...Everything
+- 🌱 I’m currently learning ...webdev
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...djoleantic94@gmail.com
 
 <!---
 djantic/djantic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
